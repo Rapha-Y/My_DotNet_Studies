@@ -1,0 +1,13 @@
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.exe
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.deps.json
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.runtimeconfig.json
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.runtimeconfig.dev.json
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.dll
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\bin\Debug\netcoreapp3.1\DIO_Dotnet.pdb
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.csprojAssemblyReference.cache
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.AssemblyInfoInputs.cache
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.AssemblyInfo.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.dll
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.pdb
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_Dotnet\obj\Debug\netcoreapp3.1\DIO_Dotnet.genruntimeconfig.cache
