@@ -167,3 +167,8 @@ C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course
 C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
 C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Anni\Documents\Projects\My-DotNet_Studies\DIO_DotNet_App\DIO_MVC_Course\DIO_MVC_Course\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
