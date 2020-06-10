@@ -47,7 +47,7 @@ namespace DIO_MVC_Course.Controllers
         // GET: Products/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "id");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "Description");
             return View();
         }
 
@@ -64,7 +64,7 @@ namespace DIO_MVC_Course.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "Description", product.CategoryId);
             return View(product);
         }
 
@@ -81,7 +81,7 @@ namespace DIO_MVC_Course.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "Description", product.CategoryId);
             return View(product);
         }
 
@@ -117,7 +117,7 @@ namespace DIO_MVC_Course.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "id", product.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "id", "Description", product.CategoryId);
             return View(product);
         }
 
