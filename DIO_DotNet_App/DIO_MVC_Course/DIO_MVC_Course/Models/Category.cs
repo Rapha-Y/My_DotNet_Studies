@@ -12,7 +12,5 @@ namespace DIO_MVC_Course.Models
 		[Display(Name = "Desçription")]
 		[Required(ErrorMessage = "The description field is mandatory")]
 		public string Description { get; set; }
-
-		public List<Product> Products { get; set; }
 	}
 }

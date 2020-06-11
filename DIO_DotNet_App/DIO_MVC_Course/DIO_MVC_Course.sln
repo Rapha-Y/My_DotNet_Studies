@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO_MVC_Course", "DIO_MVC_Course\DIO_MVC_Course.csproj", "{E67A6629-7B9F-4B4C-8AFA-0DAE834727A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO_MVC_Course", "DIO_MVC_Course\DIO_MVC_Course.csproj", "{E67A6629-7B9F-4B4C-8AFA-0DAE834727A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICourse", "APICourse\APICourse.csproj", "{D67FA731-D95B-45B2-98C9-F759ED36F675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E67A6629-7B9F-4B4C-8AFA-0DAE834727A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E67A6629-7B9F-4B4C-8AFA-0DAE834727A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E67A6629-7B9F-4B4C-8AFA-0DAE834727A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67FA731-D95B-45B2-98C9-F759ED36F675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67FA731-D95B-45B2-98C9-F759ED36F675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67FA731-D95B-45B2-98C9-F759ED36F675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67FA731-D95B-45B2-98C9-F759ED36F675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
